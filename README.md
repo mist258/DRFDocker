@@ -26,4 +26,6 @@
 ```
 # Available links for docs: 
 http://0.0.0.0:8000/api/doc/ 
+
+
 http://localhost/api/doc/ 
